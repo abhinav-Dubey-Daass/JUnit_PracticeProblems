@@ -3,7 +3,7 @@ public class TestAddClass {
 
     public String display() {
         return "working";
-    }
+    } 
 
     public int add(int a, int b) {
         return a + b;
