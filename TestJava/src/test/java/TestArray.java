@@ -7,6 +7,6 @@ public class TestArray {
         int[] expectedArray = {12, 2, 3, 53, 33};
         int[] actualArray = {12, 2, 3, 53, 33,555};
         assertArrayEquals(expectedArray,actualArray,"Both the array are not equal");
-        System.out.println("Success");
+        System.out.println("Test Passed");
     }
 }
